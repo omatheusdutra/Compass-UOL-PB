@@ -1,6 +1,8 @@
 # Compass UOL Programa de Bolsas
 
+
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_CompassoUOL_Positivo.png)
+<br><br><br>
 
 
 A trilha de aprendizagem em Data & Analytics com ênfase na AWS consiste em 10 sprints, que abrangem tópicos como cultura ágil, segurança, banco de dados, SQL, linguagem Python, programação funcional, Docker, machine learning, computação em nuvem, data & analytics na AWS, Apache Spark e estruturas de armazenamento de dados. Cada sprint possui uma lista de cursos recomendados para serem concluídos em 14 dias.
