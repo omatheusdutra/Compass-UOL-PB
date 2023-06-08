@@ -114,11 +114,9 @@ Sistema operacional de código aberto. Comandos básicos no Terminal. Shell para
 
 </div></div><br><br>
  
-#  
-   
-<div align="left"> 
-## 👷 Autor
-
+<h2 align="left">👷 Autor</h2><br>
+<div style="text-align: left;">
+<div align="center"> 
 
 | 🧑‍💻 Desenvolvedor                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
