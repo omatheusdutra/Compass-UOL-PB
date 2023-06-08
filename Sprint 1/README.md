@@ -17,7 +17,8 @@
 
 <h2 align="left">🚀 Sobre mim</h2><br>
 <div style="text-align: left;">
-
+   
+<div align="left">
 🏠 Atualmente  eu moro em Campo Mourão no Paraná.
 
 🎓 Estudo Ciência da Computação na UTFPR e estou no 3º semestre. 
@@ -27,12 +28,12 @@
 🧠 Estou aprendendo por meio do Learning Path "Data & Analytics" oferecido pela Compass UOL na plataforma Udemy.
 
 ⚡️ Fora do trabalho e dos estudos, tenho uma variedade de hobbies. Gosto de jogar videogames, assistir filmes e séries. Também aproveito meu tempo livre para socializar com amigos, praticar esportes, realizar treinos de musculação e até mesmo me dedicar às artes marciais.
-
-<br>
+</div><br>
 
 <div style="display: inline_block"><br>
 
 <h2 align="left">🛠️ Tecnologias</h2><br>
+<div align="left">
   
   <h3> Front-end </h3>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -60,11 +61,11 @@
   <img alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   
 
-</div><br><br>
+</div></div><br><br>
 
 <h2 align="left">📚 Aprendizados Sprint 1</h2><br>
 <div style="text-align: left;">
-
+<div align="left">
 ### Metodologias Ágeis
 
 <img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/2291790a-904e-4eb0-8a9c-a19c9ee3fe64
@@ -111,9 +112,9 @@ Sistema operacional de código aberto. Comandos básicos no Terminal. Shell para
 
 <br><br>
 
-</div><br><br>
+</div></div><br><br>
   
-
+<div align="left">
 ## 👷 Autor
 
 
@@ -122,4 +123,4 @@ Sistema operacional de código aberto. Comandos básicos no Terminal. Shell para
 | <p align="center"> <img alt="Cartoon" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89203538/222477874-0acc3db4-e4cd-4988-956c-b9d30f956e69.jpg?transparent=1&palette=1&scale=2"></br><sub>Matheus Dutra</sub></p> |
 
     
-</div>
+</div></div>
