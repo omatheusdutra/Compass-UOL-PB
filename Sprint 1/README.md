@@ -19,7 +19,9 @@
 <div style="text-align: left;">
    
 <div align="left">
+
 🏠 Atualmente  eu moro em Campo Mourão no Paraná.
+
 
 🎓 Estudo Ciência da Computação na UTFPR e estou no 3º semestre. 
 
