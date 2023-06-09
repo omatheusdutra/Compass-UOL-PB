@@ -66,6 +66,7 @@
 <h2 align="left">📚 Aprendizados Sprint 1</h2><br>
 <div style="text-align: left;">
 <div align="left">
+   
 ### Metodologias Ágeis
 
 <img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/2291790a-904e-4eb0-8a9c-a19c9ee3fe64" align="right" width="130" height="130">
