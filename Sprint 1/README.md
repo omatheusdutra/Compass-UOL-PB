@@ -61,7 +61,7 @@
   <img alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   
 
-</div></div><br><br>
+</div></div><br><br><br>
 
 <h2 align="left">📚 Aprendizados Sprint 1</h2><br>
 <div style="text-align: left;">
