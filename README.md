@@ -3,7 +3,7 @@
 
 ![iconizer-compass-uol](https://github.com/omatheusdutra/Compass-UOL-PB/assets/89203538/e35a8c95-ccdc-4f2a-b566-afa9c9f98edd)
 
-
+## Descrição
 A trilha de aprendizagem em Data & Analytics com ênfase na AWS consiste em 10 sprints, que abrangem tópicos como cultura ágil, segurança, banco de dados, SQL, linguagem Python, programação funcional, Docker, machine learning, computação em nuvem, data & analytics na AWS, Apache Spark e estruturas de armazenamento de dados. Cada sprint possui uma lista de cursos recomendados para serem concluídos em 14 dias.
 
 Sprint 1 - Git/GitHub e Linux para Desenvolvedores (c/ terminal, Shell, Apache e +): Esta sprint enfoca a compreensão em Git e GitHub, Linux.
