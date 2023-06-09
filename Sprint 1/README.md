@@ -68,8 +68,8 @@
 <div align="left">
 ### Metodologias Ágeis
 
-<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/2291790a-904e-4eb0-8a9c-a19c9ee3fe64
-" align="right" width="130" height="130">
+<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/2291790a-904e-4eb0-8a9c-a19c9ee3fe64" align="right" width="130" height="130">
+
 <br>
 
 
@@ -77,8 +77,7 @@
 
 <br><br>
 
-<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/d8e6e2b4-d9e2-4a82-8fc1-fc50b4a539e6
-" align="right" width="200" height="170">
+<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/d8e6e2b4-d9e2-4a82-8fc1-fc50b4a539e6" align="right" width="200" height="170">
 
 ###  Git e GitHub: Do Básico ao Avançado
 
@@ -90,8 +89,7 @@ Git é uma ferramenta fundamental no desenvolvimento de software. Comandos bási
 
 ###  Markdown
 
-<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/c4bc776f-f061-4d62-893b-0e2e4606dd98
-" align="right" width="130" height="100">
+<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/c4bc776f-f061-4d62-893b-0e2e4606dd98" align="right" width="130" height="100">
 <br>
 
  Formatação de texto. Títulos e subtítulos com hashtags. Listas ordenadas e não ordenadas. Inserção de links e imagens. Destaque de código. Enfatização com negrito e itálico. Tabelas simples. Citação de texto.
@@ -100,15 +98,13 @@ Git é uma ferramenta fundamental no desenvolvimento de software. Comandos bási
 
 ###  Linux para Desenvolvedores com Terminal, Shell, Apache
 
-<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/9d1e2d93-f467-4fa3-aa4f-d16cff24b463
-" align="right" width="130" height="80">
+<img src="https://github.com/omatheusdutra/omatheusdutra/assets/89203538/9d1e2d93-f467-4fa3-aa4f-d16cff24b463" align="right" width="130" height="80">
 
 <br>
 
 Sistema operacional de código aberto. Comandos básicos no Terminal. Shell para automação de tarefas. Configuração do Apache para hospedagem de sites. Gerenciamento de permissões. Scripts para administração do sistema.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg
-" align="right" width="130" height="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" align="right" width="130" height="90">
 
 <br><br>
 
