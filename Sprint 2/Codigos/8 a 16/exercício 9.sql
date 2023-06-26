@@ -1,0 +1,10 @@
+SELECT TBVENDAS.cdpro,
+       TBVENDAS.nmpro
+FROM TBVENDAS
+WHERE TBVENDAS.status = 'Concluído'
+  AND TBVENDAS.dtven >= '2014-02-03'
+  AND TBVENDAS.dtven <= '2018-02-02'
+GROUP BY TBVENDAS.cdpro,
+         TBVENDAS.nmpro
+ORDER BY COUNT(TBVENDAS.cdven) DESC
+LIMIT 1;
