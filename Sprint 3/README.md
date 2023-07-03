@@ -26,7 +26,7 @@ python nome_do_script.py
 
 Os códigos dos exercícios realizados durante as seções 3, 4 e 6 do curso "Python 3 Completo" da Udemy podem ser acessados através dos seguintes links:
 
-- [Seção 3 a 4]([link-para-códigos-seção-3-4](https://github.com/omatheusdutra/Compass-UOL-PB/tree/main/Sprint%203/Se%C3%A7%C3%A3o%203%20a%204))
+- [Seção 3 a 4](./Seção%203%20a%204)
 - [Seção 6]([link-para-códigos-seção-6](https://github.com/omatheusdutra/Compass-UOL-PB/tree/main/Sprint%203/Se%C3%A7%C3%A3o%206))
 
 ## Certificados
