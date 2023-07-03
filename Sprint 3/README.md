@@ -33,7 +33,7 @@ Os códigos dos exercícios realizados durante as seções 3, 4 e 6 do curso "Py
 
 Os certificados de conclusão do curso "Python 3 Completo" da Udemy podem ser acessados através do seguinte link:
 
-- [Certificados]([link-para-certificados](https://github.com/omatheusdutra/Compass-UOL-PB/tree/main/Sprint%203/Certificados))
+- [Certificados](./Sprint%203/Certificados/)
 
 ## Agradecimentos
 
