@@ -28,6 +28,7 @@ Os códigos dos exercícios realizados durante as seções 3, 4 e 6 do curso "Py
 
 - [Seção 3 a 4](./Seção%203%20a%204)
 - [Seção 6](./Seção%206)
+- [Resultados](./Seção%206)
 
 ## Certificados
 
