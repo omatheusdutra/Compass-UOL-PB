@@ -34,7 +34,7 @@ Os códigos dos exercícios realizados durante os cursos "SQL para Análise de D
 
 Os certificados de conclusão dos cursos "SQL para Análise de Dados" da Udemy e "Big Data Fundamentos 3.0" da Data Science Academy podem ser acessados na pasta de certificados:
 
-- [Certificados](./Sprint%202/Certificados/)
+- [Certificados](./Certificados/)
 
 ## Agradecimentos
 
