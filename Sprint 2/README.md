@@ -27,8 +27,8 @@ sqlcmd -i nome_do_script.sql
 
 Os códigos dos exercícios realizados durante os cursos "SQL para Análise de Dados" da Udemy e "Big Data Fundamentos 3.0" da Data Science Academy podem ser acessados nas pastas correspondentes:
 
-- [Códigos das Perguntas](./Sprint%202/Codigos%20das%20perguntas)
-- [Códigos dos Exercícios](./Sprint%202/Codigos%20dos%20exercícios)
+- [Códigos das Perguntas](./Codigos%20das%20perguntas)
+- [Códigos dos Exercícios](./Codigos%20dos%20exercícios)
 
 ## Certificados
 
