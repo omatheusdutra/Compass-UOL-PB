@@ -8,7 +8,7 @@ Este repositório contém o código e a documentação do projeto realizado dura
 
 Este projeto foi desenvolvido utilizando os seguintes recursos:
 
-- Python 3.9
+- Python 3.8
 - Docker
 - Conceitos de Programação Funcional
 - Estatística Descritiva
@@ -36,7 +36,7 @@ docker run nome_da_imagem
 Os códigos dos exercícios realizados durante esta Sprint podem ser acessados nas pastas correspondentes:
 
 - [Exercícios Programação Funcional](./Codigos)
-- [Exercícios Docker](./codigos/docker/)
+- [Projeto Docker](./Projeto%20Docker)
 - [Resultados](./Resultados)
 ## Certificados
 
