@@ -16,7 +16,7 @@ Este projeto foi desenvolvido utilizando os seguintes recursos:
 
 Os certificados de conclusão dos cursos podem ser acessados na pasta de certificados:
 
-- [Certificados](./Sprint%200/Certificados/)
+- [Certificados](./Certificados/)
 
 ## Agradecimentos
 
