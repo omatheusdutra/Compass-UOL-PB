@@ -37,7 +37,7 @@ Os códigos dos exercícios realizados durante esta Sprint podem ser acessados n
 
 - [Exercícios Programação Funcional](./Codigos)
 - [Exercícios Docker](./codigos/docker/)
-
+- [Resultados](./Resultados)
 ## Certificados
 
 Os certificados de conclusão dos cursos podem ser acessados na pasta de certificados:
