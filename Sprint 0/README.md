@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este repositório contém o código, documentação e outros recursos relacionados ao trabalho realizado durante a Sprint 0. Esta Sprint se concentra na Cultura Ágil, Segurança e Metodologias Ágeis. O conteúdo é baseado em vários materiais e cursos, incluindo "Cultura Ágil e Segurança", "Segurança em Aplicações WEB" e "Métodos ágeis de A a Z: o curso completo". Aqui, você encontrará todos os recursos necessários para entender a estrutura do projeto e como aplicar os conceitos aprendidos.
+Este repositório contém o código, documentação e outros recursos relacionados ao trabalho realizado durante a Sprint 0. Esta Sprint se concentra na Cultura Ágil, Segurança e Metodologias Ágeis. O conteúdo é baseado em vários materiais e cursos, incluindo "Cultura Ágil e Segurança", "Segurança em Aplicações WEB" e "Métodos ágeis de A a Z: o curso completo". Na plataforma Udemy, você encontrará todos os recursos necessários para entender a estrutura do projeto e como aplicar os conceitos aprendidos.
 
 ## Recursos Utilizados
 
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido utilizando os seguintes recursos:
 
 Os certificados de conclusão dos cursos podem ser acessados na pasta de certificados:
 
-- [Certificados](./Sprint%200/Certificados/)
+- [Certificados](./Certificados/)
 
 ## Agradecimentos
 
