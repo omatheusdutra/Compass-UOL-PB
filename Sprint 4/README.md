@@ -35,7 +35,7 @@ docker run nome_da_imagem
 
 Os códigos dos exercícios realizados durante esta Sprint podem ser acessados nas pastas correspondentes:
 
-- [Exercícios Programação Funcional](./Codigos)
+- [Exercícios Programação Python](./Codigos)
 - [Projeto Docker](./Projeto%20Docker)
 - [Resultados](./Resultados)
 ## Certificados
