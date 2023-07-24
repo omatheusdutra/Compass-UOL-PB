@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este repositório contém o código e a documentação do projeto realizado durante a Sprint 4, que se concentra em Programação Funcional, Docker e Estatística Descritiva utilizando Python. O conteúdo é baseado em diversos materiais e cursos, incluindo "Programação funcional: O que é?" da Alura, "Python 3 - Curso Completo do Básico ao Avançado", "Programação funcional com Python", "Docker para Desenvolvedores (com Docker Swarm e Kubernetes)" e "Estatística Descritiva com Python". Aqui, você encontrará todos os recursos necessários para entender a estrutura do projeto e como executar o código disponível na plataforma Udemy.
+Este repositório contém o código e a documentação do projeto realizado durante a Sprint 4, que se concentra em Programação Funcional, Docker e Estatística Descritiva utilizando Python. O conteúdo é baseado em diversos materiais e cursos, incluindo "Programação funcional: O que é?" da Alura, "Python 3 - Curso Completo do Básico ao Avançado", "Programação funcional com Python", "Docker para Desenvolvedores (com Docker Swarm e Kubernetes)" e "Estatística Descritiva com Python". Na plataforma Udemy, você encontrará todos os recursos necessários para entender a estrutura do projeto e como executar o código disponível.
 
 ## Recursos Utilizados
 
