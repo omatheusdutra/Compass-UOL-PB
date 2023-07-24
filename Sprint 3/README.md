@@ -9,7 +9,7 @@ Esta pasta contém os códigos e a documentação do projeto realizado durante a
 Este projeto foi desenvolvido utilizando os seguintes recursos:
 
 - Python 3.9
-- Ambiente de desenvolvimento: Visual Studio Code
+- Ambiente de desenvolvimento: Visual Studio Code e Jupyter Notebook
 - Material de curso: "Python 3 Completo" - Udemy
 
 ## Executando o Projeto
