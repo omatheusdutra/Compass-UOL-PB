@@ -18,10 +18,10 @@ Este projeto foi desenvolvido utilizando os seguintes recursos:
 Durante esta Sprint, você terá a oportunidade de participar de vários cursos relacionados à AWS. Segue abaixo um resumo dos cursos:
 
 - [AWS Skill Builder - AWS Partner: Sales Accreditation (Business) (Portuguese)](./AWS%20Partner%20Sales%20Accreditation%20(Business))
-- [AWS Skill Builder - AWS Cloud Quest: Cloud Practitioner](link-para-curso)
-- [AWS Skill Builder - AWS Partner: Accreditation (Technical) (Portuguese)](link-para-curso)
-- [AWS Skill Builder - AWS Partner: Cloud Economics Accreditation (Portuguese)](link-para-curso)
-- [AWS Skill Builder - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)](link-para-curso)
+- [AWS Skill Builder - AWS Cloud Quest: Cloud Practitioner](./AWS%20Cloud%20Quest%20Cloud%20Practitioner)
+- [AWS Skill Builder - AWS Partner: Accreditation (Technical) (Portuguese)](./AWS%20Partner%20Accreditation%20(Technical))
+- [AWS Skill Builder - AWS Partner: Cloud Economics Accreditation (Portuguese)](./AWS%20Partner%20Cloud%20Economics%20Accreditation)
+- [AWS Skill Builder - Exam Prep: AWS Certified Cloud Practitioner (Portuguese)](./Exam%20Prep%20AWS%20Certified%20Cloud%20Practitioner)
 
 ## Certificados
 
