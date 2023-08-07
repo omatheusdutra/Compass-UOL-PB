@@ -27,7 +27,7 @@ Durante esta Sprint, você terá a oportunidade de participar de vários cursos 
 
 Os certificados de conclusão dos cursos e acreditações AWS podem ser acessados na pasta de certificados:
 
-- [Certificados](./Sprint%205/Certificados/)
+- [Certificados](./Certificados/)
 
 ## Agradecimentos
 
