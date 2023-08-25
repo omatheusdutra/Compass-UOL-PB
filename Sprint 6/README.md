@@ -16,14 +16,14 @@ Este projeto foi desenvolvido utilizando os seguintes recursos:
 
 Os recursos deste projeto incluem cursos e materiais relacionados a diversos serviços de Data & Analytics oferecidos pela AWS. Os documentos e notas de estudo podem ser acessados nas pastas correspondentes:
 
-- [Introdução aos Serviços de Data & Analytics](./notas/introducao-data-analytics/)
-- [Amazon Kinesis Streams](./notas/amazon-kinesis-streams/)
-- [Amazon Kinesis Analytics](./notas/amazon-kinesis-analytics/)
-- [Amazon Elastic MapReduce (EMR)](./notas/amazon-emr/)
-- [Amazon Athena](./notas/amazon-athena/)
-- [Amazon QuickSight](./notas/amazon-quicksight/)
-- [AWS IoT Analytics](./notas/aws-iot-analytics/)
-- [Amazon Redshift](./notas/amazon-redshift/)
+- Introdução aos Serviços de Data & Analytics
+- Amazon Kinesis Streams
+- Amazon Kinesis Analytics
+- Amazon Elastic MapReduce (EMR)
+- Amazon Athena
+- Amazon QuickSight
+- AWS IoT Analytics
+- Amazon Redshift
 
 ## Cursos AWS
 
@@ -47,7 +47,7 @@ Durante esta Sprint, você terá a oportunidade de participar de vários cursos 
 
 Os certificados de conclusão dos cursos AWS podem ser acessados na pasta de certificados:
 
-- [Certificados](./Sprint%206/Certificados/)
+- [Certificados](./Certificados/)
 
 ## Agradecimentos
 
