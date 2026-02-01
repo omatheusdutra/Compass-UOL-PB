@@ -1,4 +1,4 @@
-# Compass UOL Programa de Bolsas
+# Compass UOL 
 
 
 ![iconizer-compass-uol](https://github.com/omatheusdutra/Compass-UOL-PB/assets/89203538/e35a8c95-ccdc-4f2a-b566-afa9c9f98edd)
